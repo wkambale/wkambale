@@ -54,3 +54,6 @@ An online news site based in Kasese to share to the world the hidden stories of 
 
 <p align="left"> 
 <a href="https://kambale.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="24" height="24" /></a> <a href="https://www.linkedin.com/in/wesleykambale" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="24" /></a> <a href="https://www.twitter.com/WesleyKambale" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="24" height="24" /></a> </p>
+
+## Stats
+[![Wesley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wesleykambale)](https://github.com/anuraghazra/github-readme-stats)
