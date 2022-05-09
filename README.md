@@ -40,6 +40,16 @@ An online marketplace for selling and buying art & craft locally made in Africa.
 
 An online news site based in Kasese to share to the world the hidden stories of the Rwenzoris.
 
+## Voluntary Work & Roles
+
+1. GDG Organizer at [GDG Cloud Mbarara](https://gdg.community.dev/gdg-cloud-mbarara/) (2022 - present)
+
+2. Ex-GDCSC Lead at [GDSC Mbarara University](https://gdsc.community.dev/mbarara-university-of-science-and-technology/) (2020 - 2021)
+
+3. Ex-Ambassador at [StartHub Africa Club: Mbarara University](https://starthubafrica.org/clubs/) (2020 - 2021)
+
+4. Ex-Intern at [The OpenCode Foundation](https://www.theopencode.org/team/wesley-kambale/) (2019 - 2021)
+
 ## Contact & Address
 
 🌍  I'm based in Mbarara, Uganda.
@@ -52,8 +62,11 @@ An online news site based in Kasese to share to the world the hidden stories of 
 
 ## I'm Social
 
-<p align="left"> 
-<a href="https://kambale.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="24" height="24" /></a> <a href="https://www.linkedin.com/in/wesleykambale" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="24" /></a> <a href="https://www.twitter.com/WesleyKambale" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="24" height="24" /></a> </p>
+- I blog on Hashnode [here](https://kambale.hashnode.dev).
+
+- I ocassionally tweet via [@WesleyKambale](https://twitter.com/WesleyKambale).
+
+- My professional outlook on LinkedIn [here](https://www.linkedin.com/in/wesleykambale).
 
 ## Stats
 [![Wesley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wesleykambale)](https://github.com/anuraghazra/github-readme-stats)
