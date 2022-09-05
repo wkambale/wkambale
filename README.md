@@ -69,4 +69,4 @@ An online news site based in Kasese to share to the world the hidden stories of 
 - My professional outlook on LinkedIn [here](https://www.linkedin.com/in/wesleykambale).
 
 ## Stats
-[![Wesley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wesleykambale)](https://github.com/anuraghazra/github-readme-stats)
+[![Wesley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wkambale)](https://github.com/anuraghazra/github-readme-stats)
