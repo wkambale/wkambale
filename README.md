@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-It's Wesley here.
+Wesley here.
 ==================================
 
 Machine Learning Engineer and Data Scientist
