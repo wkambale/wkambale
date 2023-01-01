@@ -56,7 +56,7 @@ An online news site based in Kasese to share to the world the hidden stories of 
 
 ✉️  You can contact me at [spartanwk@gmail.com](mailto:spartanwk@gmail.com)
 
-🧠  I'm learning the Yii framework and PyTorch library.
+🧠  I'm learning TinyML to build on RP2040 Connect boards.
 
 🤝  I'm open to collaborating on anything data.
 
