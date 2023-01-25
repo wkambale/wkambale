@@ -62,11 +62,11 @@ An online news site based in Kasese to share to the world the hidden stories of 
 
 ## I'm Social
 
-- I blog on Hashnode [here](https://kambale.hashnode.dev).
+- I blog on Hashnode [here](https://kambale.dev).
 
-- I ocassionally tweet via [@WesleyKambale](https://twitter.com/WesleyKambale).
+- I ocassionally tweet via [@WesleyKambale](https://twitter.com/WesKambale).
 
-- My professional outlook on LinkedIn [here](https://www.linkedin.com/in/wesleykambale).
+- My professional outlook on LinkedIn [here](https://www.linkedin.com/in/weskambale).
 
 ## Stats
 [![Wesley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wkambale)](https://github.com/anuraghazra/github-readme-stats)
