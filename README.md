@@ -7,7 +7,7 @@ ML Engineer and Community Builder
 --------------------
 I'm a self-taught machine learning engineer, flutter dev, and tech community builder. I have over two years of experience with building and deploying models using TensorFlow and Keras. I'm also  a technical writer via ([kambale.dev](https://kambale.dev/)) and a speaker at local tech conferences.
 
-<a href="https://twitter.com/weskambale"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/aurelievache?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> &nbsp;<a href="https://www.youtube.com/c/kambale"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCrRk0kOP58lBMl9B8ZS8Vlg?style=for-the-badge&logo=youtube&label=YOUTUBE VIEWS"></a>
+<a href="https://twitter.com/weskambale"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/aurelievache?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> &nbsp;<a href="https://www.youtube.com/kambale"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCrRk0kOP58lBMl9B8ZS8Vlg?style=for-the-badge&logo=youtube&label=YOUTUBE VIEWS"></a>
 
 1. [Rotavirus Outbreak Detection](https://github.com/WesleyKambale/Rotavirus-Outbreak-Detection)
 
