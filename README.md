@@ -14,20 +14,12 @@ I'm a self-taught machine learning engineer, flutter dev, and tech community bui
 - [Machine Learning with TensorFlow](https://kambale.dev/machine-learning-with-tensorflow)
 - [Train ML Model in SQL with BigQuery](https://kambale.dev/ml-in-sql)
 - [NumPy vs JAX: Optimizing Performance and Functionality](https://kambale.dev/numpy-vs-jax)
-- [Understanding Docker: part 42 – Docker Scout](https://dev.to/aurelievache/understanding-docker-part-42-docker-scout-o2a)
 
-➡️ [Read more artciles...](https://kambale.dev)
+➡️ [Read more articles...](https://kambale.dev)
 
-## Speaker Profile
-I run a few start-ups in an attempt to invoke my entrepreneurial skills and the desire to put forth solutions that can help make the world a better place.
+## Tech Talks
 
-1. [The Kreativ Duuka](https://kreativduuka.com/)
-
-An online marketplace for selling and buying art & craft locally made in Africa.
-
-2. [The Rwenzori Times](https://rwenzoritimes.org)
-
-An online news site based in Kasese to share to the world the hidden stories of the Rwenzoris.
+* [Automation & Integration Using Python](https://sessionize.com/s/kambale/automation-integration-using-python/77714) at PyCon Uganda 2023
 
 ## Voluntary Work & Roles
 
