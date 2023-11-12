@@ -17,7 +17,10 @@ I'm a self-taught machine learning engineer, flutter dev, and tech community bui
 
 ## Tech Talks
 
-* [Automation & Integration Using Python](https://sessionize.com/s/kambale/automation-integration-using-python/77714) at PyCon Uganda 2023
+* [LLM on Android with Keras and TensorFlow Lite](https://sessionize.com/s/kambale/llm-on-android-with-keras-and-tensorflow-lite/81393) at [DevFest Kampala 2023](https://gdg.community.dev/events/details/google-gdg-cloud-kampala-presents-devfest-kampala-2023/)
+* [Understanding Neural Networks with Keras and TensorFlow](https://sessionize.com/s/kambale/understanding-neural-networks-with-keras-and-tenso/81153) at [DevFest Mbarara 2023](https://gdg.community.dev/events/details/google-gdg-cloud-mbarara-presents-devfest-mbarara-2023/) 
+* [KerasCV for the Young and Curious](https://sessionize.com/s/kambale/kerascv-for-the-young-and-curious/79902) at [DevFest Luwero 2023](https://gdg.community.dev/events/details/google-gdg-luwero-presents-devfest-luwero-2023/)
+* [Automation & Integration Using Python](https://sessionize.com/s/kambale/automation-integration-using-python/77714) at [PyCon Uganda 2023](https://ug.pycon.org/speakers/Wesley%20Kambale)
 
 ## Voluntary Work & Roles
 
