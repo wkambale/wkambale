@@ -36,7 +36,7 @@ I'm a self-taught machine learning engineer, flutter dev, and tech community bui
 
 🌍  I'm based in Mbarara, Uganda.
 
-✉️  You can contact me at [spartanwk@gmail.com](mailto:spartanwk@gmail.com)
+✉️  You can contact me [here](mailto:spartanwk@gmail.com)
 
 🧠  I'm learning TinyML to build on RP2040 Connect boards.
 
@@ -46,7 +46,7 @@ I'm a self-taught machine learning engineer, flutter dev, and tech community bui
 
 - I blog on Hashnode [here](https://kambale.dev).
 
-- I ocassionally tweet via [@WesleyKambale](https://twitter.com/WesKambale).
+- I ocassionally tweet via [@WesKambale](https://twitter.com/WesKambale).
 
 - My professional outlook on LinkedIn [here](https://www.linkedin.com/in/weskambale).
 
