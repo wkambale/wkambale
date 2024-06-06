@@ -3,9 +3,9 @@
 Wesley here.
 ==================================
 
-ML Engineer and Community Builder
+ML Engineer and Community Lead
 --------------------
-I'm a self-taught machine learning engineer, flutter dev, and tech community builder. I have over two years of experience with building and deploying models using TensorFlow and Keras. I'm also  a technical writer via [kambale.dev](https://kambale.dev/) and a speaker at local tech conferences.
+I'm a machine learning engineer, flutter dev, and tech community lead. I have over two years of experience with building and deploying models using TensorFlow and Keras. I'm also  a technical writer via [kambale.dev](https://kambale.dev/) and a speaker at local tech conferences.
 
 ## Technical Articles
 - [TensorFlow v FLAX: The Framework to Use](https://kambale.dev/tensorflow-v-flax)
