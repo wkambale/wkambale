@@ -52,3 +52,7 @@ I'm a machine learning engineer, flutter dev, and tech community lead. I have ov
 
 ## Stats
 [![Wesley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wkambale)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wkambale&show_icons=true&locale=en&layout=compact" alt="wkambale" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wkambale&" alt="wkambale" /></p>
