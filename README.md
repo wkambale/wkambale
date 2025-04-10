@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Wes
+# 👋 Hey, I'm Wes...
 
 **Machine Learning Engineer | AI Community Leader | Technical Educator**
 
